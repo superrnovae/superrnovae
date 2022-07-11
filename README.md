@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vladislav
 - 👀 I’m interested in programming, hiking and music.
-- 🌱 I’m currently learning in Bachelor Developper Full-Stack
-- 💞️ I’m looking to collaborate on Java and Angular projects.
+- 🌱 I’m currently a NEET.
+- 💞️ I’m looking to collaborate on Java, Angular and python projects.
 - 📫 Contact me via my personal [email adress](mailto:vladislavp@pm.me)
 
 <!---
